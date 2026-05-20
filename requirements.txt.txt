@@ -1,0 +1,4 @@
+networkx
+pennylane
+pandas
+numpy
